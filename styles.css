@@ -1,0 +1,26 @@
+body {
+  background-color: grey;
+  margin: 0;
+}
+#nav-bar {
+  list-style: none;
+}
+ul {
+  width: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+#section-ideas {
+  background-image: url(./img/Layer2.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 550px;
+}
+h1,
+h3,
+p {
+  text-align: center;
+}
